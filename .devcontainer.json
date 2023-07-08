@@ -1,6 +1,5 @@
 {
-"image": "docker.io/python:latest",
-"extensions": ["ms-python.python"],
-"features": { "ghcr.io/devcontainers/features/github-cli:1": {} },
-"settings": { "workbench.colorTheme": "Solarized Light" }
+"image": "docker.io/openjdk:latest",
+"extensions": ["vscjava.vscode-java-pack"],
+"settings": { "workbench.colorTheme": "Solarized Dark" }
 }
